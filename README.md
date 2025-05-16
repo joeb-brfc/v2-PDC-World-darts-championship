@@ -44,4 +44,8 @@ The site is divided into three main pages, accessible via the top navigation bar
 ## 📸 Credits
 All player images and tournament visuals are used under fair use for educational and non-commercial display purposes.
 
+## 🧱 Validation
+
+![image](https://github.com/user-attachments/assets/1911ac7b-60e1-4cbb-ac09-f0bc4e211169)
+
 ---
