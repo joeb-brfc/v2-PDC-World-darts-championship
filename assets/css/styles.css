@@ -7,14 +7,19 @@ nav {
   background-color: #d32f2f;
 }
 body {
-    background: url(../images/background.jpg) no-repeat center center fixed;
-    background-size: cover;
+    background-color: #F5F5DC; /* Beige */;
+    
 }
  .card-body ul {
     list-style: none;
     padding-left: 0;
     margin-bottom: 0;
+    background-color: #F5F5DC; /* Beige */
   }
+  .card {
+    background-color: #F5F5DC
+}
+
 footer {
       position: fixed;
       bottom: 0;
