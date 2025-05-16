@@ -1,9 +1,14 @@
 nav {
-    background-color: #d32f2f;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1030; /* ensures it's above content */
+  background-color: #d32f2f;
 }
-
 body {
-    background-color: aqua;
+    background: url(../images/background.jpg) no-repeat center center fixed;
+    background-size: cover;
 }
  .card-body ul {
     list-style: none;
