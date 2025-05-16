@@ -5,6 +5,11 @@ nav {
 body {
     background-color: aqua;
 }
+ .card-body ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+  }
 footer {
     background-color: #388e3c; /* Green outer/bull scoring zone color */
 }
