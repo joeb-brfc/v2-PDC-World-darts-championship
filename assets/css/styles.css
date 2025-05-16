@@ -3,7 +3,7 @@ nav {
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 1030; /* ensures it's above content */
+  z-index: 1030; 
   background-color: #d32f2f;
 }
 body {
@@ -19,6 +19,9 @@ body {
   .card {
     background-color: #F5F5DC;
     border: none;
+}
+h1{
+  text-align: center;
 }
 
 footer {
