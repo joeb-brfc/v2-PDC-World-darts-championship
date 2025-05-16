@@ -46,6 +46,14 @@ All player images and tournament visuals are used under fair use for educational
 
 ## 🧱 Validation
 
+## 🎯 Screenshots
+
+
+![Screenshot mobile](https://github.com/user-attachments/assets/784c772f-978b-41d5-ad44-d5b145915e72)
+![Screenshot tablet](https://github.com/user-attachments/assets/157f07ef-58b7-4b9a-b37e-8d0088fc307b)
+![Screenshot laptop](https://github.com/user-attachments/assets/60555b60-70bd-451c-a5ae-9dbd9bf11d2c)
+![Screenshot large laptop](https://github.com/user-attachments/assets/78016200-7533-41cb-b3d4-b3bb8a92662f)
+
 ![image](https://github.com/user-attachments/assets/1911ac7b-60e1-4cbb-ac09-f0bc4e211169)
 
 ---
