@@ -43,7 +43,7 @@ The site is divided into three main pages, accessible via the top navigation bar
 
 ## ✅ Testing
 
-#### 🔧 Functionality
+### 🔧 Functionality
 Each page and key feature was manually tested in multiple browsers to ensure intended behavior:
 
 - **Navigation bar** links were tested to ensure they route to the correct internal pages (`index.html`, `wall-of-fame.html`, `phil-taylor.html`).
@@ -51,20 +51,29 @@ Each page and key feature was manually tested in multiple browsers to ensure int
 - **Cards and images** on the Wall of Fame and Home pages display properly and match the expected layout and content.
 - **Favicon and metadata** were verified to load properly and display on all modern browsers.
 
-#### 👨‍💻 Usability
+### 👨‍💻 Usability
 - Text readability tested on desktop and mobile devices (contrast, spacing, font sizes).
 - All interactive elements (navigation links, embedded content) tested with keyboard-only navigation for accessibility.
 - Screen reader compatibility tested using ChromeVox to ensure landmarks and `alt` attributes are present where necessary.
 
-#### 📱 Responsiveness
+### 📱 Responsiveness
 Tested manually using:
 
 - **Chrome DevTools device simulator** (iPhone SE, iPhone 14 Pro, iPad, Galaxy Fold, desktop monitors).
 - Bootstrap’s grid system reviewed for consistency in column stacking and spacing across screen sizes (`sm`, `md`, `lg`, `xl`).
 
+### 🧪 Automated Testing
+- **Lighthouse Audits (Chrome DevTools):**
+  - **Performance**, **Accessibility**, **Best Practices**, and **SEO** scores reviewed.
+  - Pages scored highly across all categories with no critical issues reported.
+
+- **W3C Validation:**
+  - **HTML** files tested using the [W3C Markup Validation Service](https://validator.w3.org/) – no critical errors after final revision.
+  - **CSS** tested using the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) – passed without major warnings.
+
 ---
 
-### 5.2 Test Summary Documentation
+## 5.2 Test Summary Documentation
 
 All testing was documented manually during development. Below is a summary of what passed:
 
@@ -77,18 +86,20 @@ All testing was documented manually during development. Below is a summary of wh
 | Font readability and contrast       | Manual inspection           | ✅ Pass     |
 | Alt text and keyboard navigation    | Screen reader, Tab key test | ✅ Pass     |
 | Metadata and favicon                | Chrome/Firefox bookmarks    | ✅ Pass     |
+| Lighthouse accessibility & SEO      | Chrome DevTools             | ✅ Pass     |
+| HTML5 validity (W3C)                | W3C Validator                | ✅ Pass     |
+| CSS3 validity (W3C)                 | W3C Validator                | ✅ Pass     |
 
 No major bugs or errors were found during testing.
 
+---
+
 ## 🎯 Screenshots
-
-
 
 ![Screenshot 2025-06-01 201044](https://github.com/user-attachments/assets/c17c5259-1a07-41e6-83a9-8e5d7704d02c)
 <img width="576" alt="wall-of-fame-laptop" src="https://github.com/user-attachments/assets/9f29d6d2-9542-4ca0-a6ce-e37324cc7850" />
 ![Screenshot 2025-06-01 201243](https://github.com/user-attachments/assets/68dd7afc-f615-4383-91e3-3ba82753e77b)
 <img width="351" alt="mobile-screenshot" src="https://github.com/user-attachments/assets/b20d56c2-a13a-4806-a497-1aadeb8a42ba" />
-
 
 ![image](https://github.com/user-attachments/assets/1911ac7b-60e1-4cbb-ac09-f0bc4e211169)
 
