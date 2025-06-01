@@ -83,10 +83,12 @@ No major bugs or errors were found during testing.
 ## 🎯 Screenshots
 
 
-![Screenshot mobile](https://github.com/user-attachments/assets/784c772f-978b-41d5-ad44-d5b145915e72)
-![Screenshot tablet](https://github.com/user-attachments/assets/157f07ef-58b7-4b9a-b37e-8d0088fc307b)
-![Screenshot laptop](https://github.com/user-attachments/assets/60555b60-70bd-451c-a5ae-9dbd9bf11d2c)
-![Screenshot large laptop](https://github.com/user-attachments/assets/78016200-7533-41cb-b3d4-b3bb8a92662f)
+
+![Screenshot 2025-06-01 201044](https://github.com/user-attachments/assets/c17c5259-1a07-41e6-83a9-8e5d7704d02c)
+<img width="576" alt="wall-of-fame-laptop" src="https://github.com/user-attachments/assets/9f29d6d2-9542-4ca0-a6ce-e37324cc7850" />
+![Screenshot 2025-06-01 201243](https://github.com/user-attachments/assets/68dd7afc-f615-4383-91e3-3ba82753e77b)
+<img width="351" alt="mobile-screenshot" src="https://github.com/user-attachments/assets/b20d56c2-a13a-4806-a497-1aadeb8a42ba" />
+
 
 ![image](https://github.com/user-attachments/assets/1911ac7b-60e1-4cbb-ac09-f0bc4e211169)
 
