@@ -41,10 +41,44 @@ The site is divided into three main pages, accessible via the top navigation bar
 - [PDC Tournament Calendar](https://www.pdc.tv/tournaments/calendar)
 - [Target Darts Equipment](https://www.target-darts.co.uk/)
 
-## 📸 Credits
-All player images and tournament visuals are used under fair use for educational and non-commercial display purposes.
+## ✅ Testing
 
-## 🧱 Validation
+#### 🔧 Functionality
+Each page and key feature was manually tested in multiple browsers to ensure intended behavior:
+
+- **Navigation bar** links were tested to ensure they route to the correct internal pages (`index.html`, `wall-of-fame.html`, `phil-taylor.html`).
+- **Embedded video** in the *Phil Taylor* page tested for playback, controls, and responsiveness.
+- **Cards and images** on the Wall of Fame and Home pages display properly and match the expected layout and content.
+- **Favicon and metadata** were verified to load properly and display on all modern browsers.
+
+#### 👨‍💻 Usability
+- Text readability tested on desktop and mobile devices (contrast, spacing, font sizes).
+- All interactive elements (navigation links, embedded content) tested with keyboard-only navigation for accessibility.
+- Screen reader compatibility tested using ChromeVox to ensure landmarks and `alt` attributes are present where necessary.
+
+#### 📱 Responsiveness
+Tested manually using:
+
+- **Chrome DevTools device simulator** (iPhone SE, iPhone 14 Pro, iPad, Galaxy Fold, desktop monitors).
+- Bootstrap’s grid system reviewed for consistency in column stacking and spacing across screen sizes (`sm`, `md`, `lg`, `xl`).
+
+---
+
+### 5.2 Test Summary Documentation
+
+All testing was documented manually during development. Below is a summary of what passed:
+
+| Feature                             | Tested Device/Browser       | Status      |
+|-------------------------------------|-----------------------------|-------------|
+| Navigation links                    | Chrome, Edge, Firefox       | ✅ Pass     |
+| Video playback                      | Chrome (desktop & mobile)   | ✅ Pass     |
+| Image layout on Wall of Fame        | iPad, Galaxy Fold           | ✅ Pass     |
+| Responsive card resizing            | Chrome DevTools             | ✅ Pass     |
+| Font readability and contrast       | Manual inspection           | ✅ Pass     |
+| Alt text and keyboard navigation    | Screen reader, Tab key test | ✅ Pass     |
+| Metadata and favicon                | Chrome/Firefox bookmarks    | ✅ Pass     |
+
+No major bugs or errors were found during testing.
 
 ## 🎯 Screenshots
 
