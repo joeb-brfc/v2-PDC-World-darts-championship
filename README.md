@@ -79,7 +79,7 @@ Tested manually using:
 
 ## 5.2 Test Summary Documentation
 
-All testing was documented manually during development. Below is a summary of what passed:
+All testing was documented manually after development. Below is a summary of what passed:
 
 | Feature                             | Tested Device/Browser       | Status      |
 |-------------------------------------|-----------------------------|-------------|
