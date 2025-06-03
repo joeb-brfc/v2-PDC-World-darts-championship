@@ -47,14 +47,13 @@ The site is divided into three main pages, accessible via the top navigation bar
 Each page and key feature was manually tested in multiple browsers to ensure intended behavior:
 
 - **Navigation bar** links were tested to ensure they route to the correct internal pages (`index.html`, `wall-of-fame.html`, `phil-taylor.html`).
-- **Embedded video** in the *Phil Taylor* page tested for playback, controls, and responsiveness.
+- **Embedded video** in the Phil Taylor page tested for playback, controls, and responsiveness.
 - **Cards and images** on the Wall of Fame and Home pages display properly and match the expected layout and content.
-- **Favicon and metadata** were verified to load properly and display on all modern browsers.
+- **Favicon** was verified to load properly and display on all modern browsers.
 
 ### 👨‍💻 Usability
 - Text readability tested on desktop and mobile devices (contrast, spacing, font sizes).
 - All interactive elements (navigation links, embedded content) tested with keyboard-only navigation for accessibility.
-- Screen reader compatibility tested using ChromeVox to ensure landmarks and `alt` attributes are present where necessary.
 
 ### 📱 Responsiveness
 Tested manually using:
@@ -64,8 +63,8 @@ Tested manually using:
 
 ### 🧪 Automated Testing
 - **Lighthouse Audits (Chrome DevTools):**
-  - **Performance**, **Accessibility**, **Best Practices**, and **SEO** scores reviewed.
-  - Pages scored highly across all categories with no critical issues reported.
+  - **Performance**, **Accessibility** and **Best Practices** scores reviewed.
+  - Pages scored medium to highly across all categories with no critical issues reported.
 ![image](https://github.com/user-attachments/assets/7e498234-c2f8-42ad-a892-a74e745fcf84)
 ![image](https://github.com/user-attachments/assets/98915cb7-87aa-405f-832a-2ba4d2422121)
 ![image](https://github.com/user-attachments/assets/494225fd-b26b-4995-b6f2-824527a91215)
@@ -89,11 +88,9 @@ All testing was documented manually during development. Below is a summary of wh
 | Image layout on Wall of Fame        | iPad, Galaxy Fold           | ✅ Pass     |
 | Responsive card resizing            | Chrome DevTools             | ✅ Pass     |
 | Font readability and contrast       | Manual inspection           | ✅ Pass     |
-| Alt text and keyboard navigation    | Screen reader, Tab key test | ✅ Pass     |
-| Metadata and favicon                | Chrome/Firefox bookmarks    | ✅ Pass     |
 | Lighthouse accessibility & SEO      | Chrome DevTools             | ✅ Pass     |
-| HTML5 validity (W3C)                | W3C Validator                | ✅ Pass     |
-| CSS3 validity (W3C)                 | W3C Validator                | ✅ Pass     |
+| HTML5 validity (W3C)                | W3C Validator               | ✅ Pass     |
+| CSS3 validity (W3C)                 | W3C Validator               | ✅ Pass     |
 
 No major bugs or errors were found during testing.
 
@@ -108,12 +105,8 @@ No major bugs or errors were found during testing.
 ![image](https://github.com/user-attachments/assets/bda58eb5-f300-4a41-92a1-f4c087196882)
 
 
-![image](https://github.com/user-attachments/assets/59ff12cd-4476-4bde-b6ec-f3bb8da04d48)
-![image](https://github.com/user-attachments/assets/61c22cf6-7bba-4e6e-8600-372cb09cff48)
+![image](https://github.com/user-attachments/assets/59ff12cd-4476-4bde-b6ec-f3bb8da04d48) <br>
+![image](https://github.com/user-attachments/assets/61c22cf6-7bba-4e6e-8600-372cb09cff48) <br>
 ![image](https://github.com/user-attachments/assets/53153795-5c21-4719-9ca8-ec694ee00781)
-
-
-
-
 
 ---
