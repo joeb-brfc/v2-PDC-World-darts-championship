@@ -58,8 +58,14 @@ Each page and key feature was manually tested in multiple browsers to ensure int
 ### 📱 Responsiveness
 Tested manually using:
 
-- **Chrome DevTools device simulator** (iPhone SE, iPhone 14 Pro, iPad, Galaxy Fold, desktop monitors).
+- **Chrome DevTools device simulator** (iPhone SE, Surface pro 7, iPad pro, NestHub max).
 - Bootstrap’s grid system reviewed for consistency in column stacking and spacing across screen sizes (`sm`, `md`, `lg`, `xl`).
+  <img width="228" alt="image" src="https://github.com/user-attachments/assets/431a59ff-0ec5-4f6a-815a-e4201ac261ee" />
+  <img width="223" alt="image" src="https://github.com/user-attachments/assets/f85b5bfb-577d-4bbd-9773-df0e527dc4e2" />
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/3d15c27e-cfa3-454f-9d4f-d1f95613d8c0" />
+  <img width="542" alt="image" src="https://github.com/user-attachments/assets/51de5936-02f6-4298-89ab-95e281aeaffc" />
+
+
 
 ### 🧪 Automated Testing
 - **Lighthouse Audits (Chrome DevTools):**
@@ -105,8 +111,6 @@ No major bugs or errors were found during testing.
 ![image](https://github.com/user-attachments/assets/bda58eb5-f300-4a41-92a1-f4c087196882)
 
 
-![image](https://github.com/user-attachments/assets/59ff12cd-4476-4bde-b6ec-f3bb8da04d48) <br>
-![image](https://github.com/user-attachments/assets/61c22cf6-7bba-4e6e-8600-372cb09cff48) <br>
-![image](https://github.com/user-attachments/assets/53153795-5c21-4719-9ca8-ec694ee00781)
+
 
 ---
