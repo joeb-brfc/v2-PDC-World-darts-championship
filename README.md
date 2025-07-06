@@ -198,16 +198,3 @@ All testing was documented manually after development. Below is a summary of wha
 No major bugs or errors were found during testing.
 
 ---
-
-## 🎯 Screenshots
-**User Strories**
-![image](https://github.com/user-attachments/assets/07c0037d-1b0a-4d14-b2fa-938eb92da65e)
-![image](https://github.com/user-attachments/assets/9ccf2f92-d496-4957-ba27-3debf17e58ee)
-![image](https://github.com/user-attachments/assets/c2936172-967d-4490-92c6-72a2b0fad3cb)
-![image](https://github.com/user-attachments/assets/baa765e8-63e7-4b14-a504-63a7e17d078a)
-![image](https://github.com/user-attachments/assets/bda58eb5-f300-4a41-92a1-f4c087196882)
-
-
-
-
----
