@@ -2,6 +2,16 @@
 
 This web project is a responsive, Bootstrap-powered tribute to the PDC World Darts Championship. It aims to educate, entertain, and celebrate the evolution of the competition, legendary players, and its cultural impact.
 
+## 💡 Purpose & Value
+
+The website is designed for darts fans, new audiences, and sports history enthusiasts. It delivers value by:
+
+- Centralising champion stats, career highlights, and venue information in one engaging interface
+- Showcasing multimedia content (images, embedded video) to enhance learning and engagement
+- Celebrating diversity and modern progress in darts (e.g. Fallon Sherrock and Lisa Ashton)
+- Offering a mobile-friendly, accessible browsing experience using Bootstrap 5 and alt-tagged images
+
+
 ## 🌐 Navigation Structure
 
 The site is divided into three main pages, accessible via the top navigation bar:
