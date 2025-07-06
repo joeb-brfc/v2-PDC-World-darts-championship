@@ -16,6 +16,12 @@ The website is designed for darts fans, new audiences, and sports history enthus
 - **Live Website:** [https://joeb-brfc.github.io/v2-PDC-World-darts-championship/](https://joeb-brfc.github.io/v2-PDC-World-darts-championship/)
 - **GitHub Repository:** [https://github.com/joeb-brfc/v2-PDC-World-darts-championship](https://github.com/joeb-brfc/v2-PDC-World-darts-championship)
 
+### 🔧 Running the site locally:
+1. Clone the repository or download it as a ZIP.
+2. Extract the files if downloaded.
+3. Open `index.html` in your preferred browser.
+4. No build tools or installations are required — this is a fully static project.
+
 
 ## 🌐 Navigation Structure
 
