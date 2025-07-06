@@ -22,7 +22,83 @@ The website is designed for darts fans, new audiences, and sports history enthus
 3. Open `index.html` in your preferred browser.
 4. No build tools or installations are required — this is a fully static project.
 
+## 👥 Detailed User Stories
 
+### 🧭 First-Time Visitor
+
+**User Story:**  
+As a First-Time Visitor, I need easy navigation and a user-friendly design, including a responsive layout for my device.
+
+**Acceptance Criteria:**
+- The website is fully responsive across various devices and screen sizes (mobile, tablet, desktop).
+- Site layout and navigation are intuitive, allowing easy access to different sections.
+
+**Tasks:**
+- Apply responsive design principles using Bootstrap to ensure the website is accessible on various devices.
+- Arrange the site layout and navigation based on best practices, ensuring all key sections and pages are easily accessible.
+
+---
+
+### 🏆 Darts Fan
+
+**User Story:**  
+As a Darts Fan, I want to view a list of PDC World Champions, summarizing the total amount of times they have won the trophy, the finalist they faced and the result in the final.
+
+**Acceptance Criteria:**
+- The Wall of Fame displays each champion’s name, number of titles, and brief victory description.
+- Each champion card links to their individual biography page.
+
+**Tasks:**
+- Create individual champion cards for each titleholder with relevant stats.
+- Ensure the correct linking between player cards and biography pages.
+
+---
+
+### 📱 Website Owner
+
+**User Story:**  
+As the website owner, I need the website to be fully responsive and adapt to various screen sizes (e.g., mobile, tablet, desktop), so users can view content seamlessly regardless of the device used.
+
+**Acceptance Criteria:**
+- The layout adjusts seamlessly across various screen sizes without horizontal scrolling.
+- All clickable elements (buttons, links, images) are touch-friendly and easy to interact with on smaller screens.
+
+**Tasks:**
+- Test and optimize all pages for various devices (mobile, tablet, desktop) to ensure full responsiveness.
+- Ensure buttons and links are large enough for easy tapping on touchscreens.
+
+---
+
+### 🎯 Phil Taylor Enthusiast
+
+**User Story:**  
+As a Phil Taylor Enthusiast, I want to read Phil Taylor's biography and view media related to his career, so I can understand his journey in the world of darts.
+
+**Acceptance Criteria:**
+- The biography includes sections like Early Life, Career Rise, and Major Achievements.
+- A media gallery with images and videos related to Phil Taylor's career, including close personal moments, is displayed.
+- A trophy display section showcases all the major tournaments and the total amount of times he won the event, plus the years he did so.
+
+**Tasks:**
+- Write and format Phil Taylor’s biography.
+- Embed relevant videos and images.
+- Create a trophy card display with title information.
+
+---
+
+### 🔗 Regular Visitor
+
+**User Story:**  
+As a Regular Visitor, I want to access key PDC-related resources directly from the footer, so I can stay updated with PDC events and rankings.
+
+**Acceptance Criteria:**
+- The footer contains links to the PDC Tournament Calendar and Order of Merit.
+- The links are labelled and functional, taking users to the respective pages.
+
+**Tasks:**
+- Add links to the footer for the PDC Tournament Calendar.
+- Add links to the footer for the Order of Merit.
+- 
 ## 🌐 Navigation Structure
 
 The site is divided into three main pages, accessible via the top navigation bar:
