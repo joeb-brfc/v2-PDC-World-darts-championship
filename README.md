@@ -1,6 +1,6 @@
 # v2-PDC-World-Darts-Championship
 
-This web project is a responsive, Bootstrap-powered tribute to the PDC World Darts Championship. It explores the history, key players, and legacy of the competition, with visual and multimedia content to enhance user engagement.
+This web project is a responsive, Bootstrap-powered tribute to the PDC World Darts Championship. It aims to educate, entertain, and celebrate the evolution of the competition, legendary players, and its cultural impact.
 
 ## 🌐 Navigation Structure
 
