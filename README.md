@@ -11,6 +11,11 @@ The website is designed for darts fans, new audiences, and sports history enthus
 - Celebrating diversity and modern progress in darts (e.g. Fallon Sherrock and Lisa Ashton)
 - Offering a mobile-friendly, accessible browsing experience using Bootstrap 5 and alt-tagged images
 
+## 🌐 Deployment Instructions
+
+- **Live Website:** [https://joeb-brfc.github.io/v2-PDC-World-darts-championship/](https://joeb-brfc.github.io/v2-PDC-World-darts-championship/)
+- **GitHub Repository:** [https://github.com/joeb-brfc/v2-PDC-World-darts-championship](https://github.com/joeb-brfc/v2-PDC-World-darts-championship)
+
 
 ## 🌐 Navigation Structure
 
